@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Encuestas Autokam</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="lbl_informativo_cte"></string>
+	<string name="nombre">Nombre:</string>
+	<string name="ap_materno">Apellido Paterno:</string>
+	<string name="ap_paterno">Apellido Materno:</string>
+	<string name="correo">E-mail:</string>
+	<string name="telefonos">Tel:</string>
+	<string name="tel_casa">Casa:</string>
+	<string name="tel_celular">Celular:</string>
+	
+	<string name="regresar">Regresar</string>
+	<string name="enviar">Enviar</string>
+    
+</resources>
